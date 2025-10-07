@@ -1,0 +1,11 @@
+Emp ID,Full Name,age,Gender ,JoinDate,Dept,Salary$,Experience(Yrs),City
+101.0,Ali khan,25,M,2020/01/10,HR,"50,000",2,Karachi
+102.0,Sara,Thirty,F,2020-02-05,IT,60000,3,Lahore
+103.0,Omar Farooq,28,Male,Feb 20 2020,it,55k,Three,LHR
+104.0,aisha malik,22,female,20-03-2020,Finance,40000,1,Khi
+, ,24,M,,Finance,?,,Karachi
+106.0,Usman,,?,2020-05-15,IT ,52000,4, 
+107.0,Sara,26,F,2020/6/01,HR,61000,5,Islamabad
+108.0,ZARA AHMED,27,F,07/07/20,finance,"58,000",six,islmabad
+109.0,Bilal khan,?,MALE, ,FINANCE,62000,2 ,KARACHI
+110.0, ,30,FEMALE,2020.09.01, ,47000, 3,Lahor
