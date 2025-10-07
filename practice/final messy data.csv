@@ -1,0 +1,11 @@
+Emp ID,Full Name,age,Gender,Dept,Salary$,Experience(Yrs)
+101,Ali khan,25,Male,HR,50000.0,2.0
+102,Sara,26,Female,IT,60000.0,3.0
+103,Omar Farooq,28,Male,IT,55000.0,3.0
+104,aisha malik,22,Female,FINANCE,40000.0,1.0
+105,,24,Male,FINANCE,53889.0,3.2222222222222223
+106,Usman,26,Unknown,IT,52000.0,4.0
+107,Sara,26,Female,HR,61000.0,5.0
+108,ZARA AHMED,27,Female,FINANCE,58000.0,6.0
+109,Bilal khan,26,Male,FINANCE,62000.0,2.0
+110,,30,Female,,47000.0,3.0
