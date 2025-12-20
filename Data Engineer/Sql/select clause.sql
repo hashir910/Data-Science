@@ -47,6 +47,32 @@ ORDER BY score DESC
 
 
 
+-- ordering by multiple condition---
+
+SELECT 
+	first_name,
+	country,
+	score
+FROM customers
+ORDER BY country DESC , score ASC
 
 
+--- groupby it is used to group the data and perform aggregation functions
 
+
+SELECT 
+	country,
+	SUM(score) 
+FROM customers
+GROUP BY  country
+ORDER BY country DESC
+
+-- HAVING  same as where but use after groupby meaning that if we want to filter after grouping than we have to use groupby--
+-- if we use where it will filter the orignal table --
+SELECT 
+	country,
+	SUM(score)
+FROM customers
+GROUP BY country
+HAVING SUM(score) > 500
+ORDER BY SUM(score) ASC
