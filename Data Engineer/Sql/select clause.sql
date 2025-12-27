@@ -76,3 +76,21 @@ FROM customers
 GROUP BY country
 HAVING SUM(score) > 500
 ORDER BY SUM(score) ASC
+
+
+/* using distinct */
+
+SELECT Distinct
+	country
+FROM customers
+
+-- top--
+Select Top 4 
+*
+From customers
+
+Select Distinct 
+	country
+From customers
+
+
