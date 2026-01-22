@@ -1,5 +1,13 @@
 Learning sql 
 
-day 1 (select, from, where)
+day 1 (select, from, where )
+day 2 ( order by, groupby , aggregate function)
+
+The execution order will be :
+4 select
+1 from 
+2 where
+5 orderby 
+3 groupby 
 
 
