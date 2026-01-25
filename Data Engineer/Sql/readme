@@ -1,7 +1,13 @@
 Learning sql 
 
-day 1 (select, from, where )
-day 2 ( order by, groupby , aggregate function)
+day 1 (select, from, where ( used for filtering before the aggregate function ))
+day 2 ( order by: Order the rows through the selected column
+        groupby: group the columns with same values and provide a new table fror aggregate function
+day 3 ( having : used for filtering after the  aggregate functions ( condition ).
+        distinct:  remove the duplicates from the table.
+        Top: Use for limiting the rows or like for getting only the defined no of rows.)
+practice day 1 ( all queries written above ).
+
 
 The execution order will be :
 4 select
