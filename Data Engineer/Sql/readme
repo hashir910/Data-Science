@@ -1,5 +1,5 @@
 Learning sql 
-
+DAY 1: {
 day 1 (select, from, where ( used for filtering before the aggregate function ))
 day 2 ( order by: Order the rows through the selected column
         groupby: group the columns with same values and provide a new table fror aggregate function
@@ -14,6 +14,15 @@ The execution order will be :
 1 from 
 2 where
 5 orderby 
-3 groupby 
+3 groupby }
+
+
+DAY 2: {
+DDL==DATA DEFEINITION LANGUAGE
+1.CREATE: Use for creating the table. 
+2.ALTER: Use for altering ( adding or removing ) the table through column and rows.
+3.DROP: Use for dropping the define table.
+
+}
 
 
