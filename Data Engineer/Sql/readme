@@ -1,12 +1,13 @@
 Learning sql 
 DAY 1: {
-day 1 (select, from, where ( used for filtering before the aggregate function ))
-day 2 ( order by: Order the rows through the selected column
+(select, from, where ( used for filtering before the aggregate function ))
+( order by: Order the rows through the selected column
         groupby: group the columns with same values and provide a new table fror aggregate function
-day 3 ( having : used for filtering after the  aggregate functions ( condition ).
+( having : used for filtering after the  aggregate functions ( condition ).
         distinct:  remove the duplicates from the table.
         Top: Use for limiting the rows or like for getting only the defined no of rows.)
-practice day 1 ( all queries written above ).
+practice day 1 ( all queries written above ).}
+
 
 
 The execution order will be :
@@ -21,8 +22,14 @@ DAY 2: {
 DDL==DATA DEFEINITION LANGUAGE
 1.CREATE: Use for creating the table. 
 2.ALTER: Use for altering ( adding or removing ) the table through column and rows.
-3.DROP: Use for dropping the define table.
+3.DROP: Use for dropping the define table. }
 
-}
+DAY 3: {
+1.INSERT INTO: Use for inserting the data into the table through query.
+2.UPDATE (TABLE NAME): update the table's rows which falls into the given condition. 
+3.DELETE TABLE (TABLE NAME): Delete the rows which falls into the given condition.
+4.TRUNCATE TABLE (TABLE NAME): Delete the rows and columns of the table which keeping the table.
+
+
 
 
