@@ -8,15 +8,12 @@ DAY 1: {
         Top: Use for limiting the rows or like for getting only the defined no of rows.)
 practice day 1 ( all queries written above ).}
 
-
-
 The execution order will be :
 4 select
 1 from 
 2 where
 5 orderby 
 3 groupby }
-
 
 DAY 2: {
 DDL==DATA DEFEINITION LANGUAGE
