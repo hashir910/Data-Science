@@ -27,6 +27,31 @@ DAY 3: {
 3.DELETE TABLE (TABLE NAME): Delete the rows which falls into the given condition.
 4.TRUNCATE TABLE (TABLE NAME): Delete the rows and columns of the table which keeping the table.
 
+DAY 4: {
+WHERE == Use for conditional operations.
+1.Comparision operators:
+(=)         : is equal to.
+(!=) , (<>) : not equal to.
+(>=)        : greater than equal to.
+(<=)        : less than equal to.
+(<)         : less than.
+(>)         : greater than.
+2.logical operators:
+AND : All the conditions must be true.
+OR  : One condition must be true.
+NOT : Reverse the condition's effect.
+3.Range Operatiors:
+BETWEEN : search in the given range.
+4.Membership Operators:
+IN    : check the value from the given list.
+NOT IN: give the values other than the list .
+5.Search Operators:
+Like: take the patter and then search according to it.
+(%)= anything (a%) anything after a   - (%a): last element should be a.
+(_): position _ it leave the first element only - __ it means the leave the starting 2 element only - ___ it means leave the starting 3 elements only
+
+
+}
 
 
 
