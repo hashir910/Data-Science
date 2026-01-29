@@ -49,9 +49,14 @@ NOT IN: give the values other than the list .
 Like: take the patter and then search according to it.
 (%)= anything (a%) anything after a   - (%a): last element should be a.
 (_): position _ it leave the first element only - __ it means the leave the starting 2 element only - ___ it means leave the starting 3 elements only
-
-
 }
 
+Day 5: {
+JOIN : It is used for joining data of two or more tables. It's types are given below.
+1. Inner Join: It return only the matching rows from both the tables.
+2. Left Join: It return all the rows from the left (first) table and also the matching rows from both the tables.
+3. Right Join:It return all the rows from the right (last) table and also the matching rows from both the tables.
+4. Full Join: It return all the rows from both the table as concatenated.
+} 
 
 
