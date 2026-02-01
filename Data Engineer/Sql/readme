@@ -59,4 +59,11 @@ JOIN : It is used for joining data of two or more tables. It's types are given b
 4. Full Join: It return all the rows from both the table as concatenated.
 } 
 
-
+Day 6: {
+Advanced Joins:
+1. Left Anti Join: Return the rows form the left which are not matching with the right.
+2. Right Anti Join: Return the rows from the right which are not match with the left.
+3. Full Anti Join: Return the rows from the both table except the matching rows.
+4. Cross Join: Return every row from both left and riht table providing all the possible combinations as cartesian Join.
+ 
+}
