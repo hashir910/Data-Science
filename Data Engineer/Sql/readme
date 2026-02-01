@@ -67,3 +67,5 @@ Advanced Joins:
 4. Cross Join: Return every row from both left and riht table providing all the possible combinations as cartesian Join.
  
 }
+
+Practice 2 : { practicing joins and where clause }
