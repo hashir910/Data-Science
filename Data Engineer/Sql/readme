@@ -68,5 +68,7 @@ Advanced Joins:
  
 }
 
-Practice 2 : { practicing joins and where clause }
-Practice 3 : { practicing joins more and repeating where clause building some logic solving gpt given problems }
+Practice 2 (Level 1 — Warm-up): { practicing joins and where clause }
+Practice 3 (Level 2 — Filtering & Logic): { practicing joins more and repeating where clause building some logic solving gpt given problems }
+Practice 4 (Level 3 — Aggreagation & Join): { practicing joins more and repeating where clause building some logic solving gpt given problems }
+
