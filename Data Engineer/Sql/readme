@@ -75,3 +75,13 @@ Practice 4 (Level 3 — Aggreagation & Join): { practicing joins more and repeat
 Day 7: {
 Multiple Tables Join
 }
+Day 8: {
+Set operations:
+ set operators combine the result of multiple queries in a result set.
+}
+
+
+
+NOTE:
+SQL Joints are used for the combination of columns.
+SQL sets are aused for the combination of rows.
