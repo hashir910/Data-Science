@@ -78,6 +78,12 @@ Multiple Tables Join
 Day 8: {
 Set operations:
  set operators combine the result of multiple queries in a result set.
+
+Union: return all the combined distinct rows.
+Union: It return all the rows from the combined set. It doesn't remove duplicate rows.
+Except: It is like difference (meaning that it removes the distinct rows and return the remaining rows from table A.
+Intersect: It provides only the matching rows from both the tables.
+
 }
 
 
